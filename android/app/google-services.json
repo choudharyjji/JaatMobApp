@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "776506334488",
+    "project_id": "firebase-jaat"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776506334488:android:b8703c7650c7194d",
+        "android_client_info": {
+          "package_name": "com.jaat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776506334488-ifgaoqlf55n68lo9uis3t3v8vssl36ob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaat",
+            "certificate_hash": "dd06e0a899148e45406f5a497a73597e07dc7749"
+          }
+        },
+        {
+          "client_id": "776506334488-066c3v96vcn8fu6uhfkhbp5c9qhvejtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWjat44O9r6PBN1mkWP4Bs3hGtQIKLT6E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
